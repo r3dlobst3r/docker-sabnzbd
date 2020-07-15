@@ -38,6 +38,7 @@ RUN \
 	python3 \
 	${SABNZBD} \
 	unrar \
+	vim \
 	unzip && \
  pip install --no-cache-dir \
 	apprise \
